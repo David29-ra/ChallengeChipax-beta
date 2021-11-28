@@ -32,3 +32,8 @@ Functions on services directory do the fecth of endpoints above.
 ## to Start
 
 1. Use live serve to open index.html and you can see the result on the browser.
+
+<br/>
+<br/>
+
+*Made by Monito Inc. 🙊*
